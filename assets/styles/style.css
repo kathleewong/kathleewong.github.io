@@ -396,7 +396,7 @@ a {
         min-height: 375px;
         border-radius: 2px;
         box-shadow: 15px 15px #C5DFFE;
-        margin: 50px 70px 0px 70px;
+        margin: 130px 70px 0px 70px;
     }
 
     .content .end {
@@ -416,6 +416,10 @@ a {
     .proj-pic {
         height: 200px;
         width: 330px;
+    }
+
+    #project-container {
+        margin-top: 200px;
     }
 
     .item{
